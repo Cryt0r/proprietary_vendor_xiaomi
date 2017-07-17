@@ -291,7 +291,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/priv-app/ims/ims.apk:system/priv-app/ims/ims.apk \
     vendor/xiaomi/rolex/proprietary/usr/keylayout/ft5x06_ts.kl:system/usr/keylayout/ft5x06_ts.kl \
     vendor/xiaomi/rolex/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
-    vendor/xiaomi/rolex/proprietary/usr/keylayout/qpnp_pon.kl:system/usr/keylayout/qpnp_pon.kl \
     vendor/xiaomi/rolex/proprietary/usr/keylayout/synaptics_dsx.kl:system/usr/keylayout/synaptics_dsx.kl \
     vendor/xiaomi/rolex/proprietary/usr/keylayout/synaptics_rmi4_i2c.kl:system/usr/keylayout/synaptics_rmi4_i2c.kl \
     vendor/xiaomi/rolex/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
