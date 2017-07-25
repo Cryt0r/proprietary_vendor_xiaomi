@@ -103,6 +103,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/etc/audio_platform_info_extcodec.xml:system/etc/audio_platform_info_extcodec.xml \
     vendor/xiaomi/rolex/proprietary/etc/audio_platform_info.xml:system/etc/audio_platform_info.xml \
     vendor/xiaomi/rolex/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
+    vendor/xiaomi/rolex/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
     vendor/xiaomi/rolex/proprietary/etc/camera/csidtg_camera.xml:system/etc/camera/csidtg_camera.xml \
     vendor/xiaomi/rolex/proprietary/etc/camera/csidtg_chromatix.xml:system/etc/camera/csidtg_chromatix.xml \
     vendor/xiaomi/rolex/proprietary/etc/camera/imx214_chromatix.xml:system/etc/camera/imx214_chromatix.xml \
@@ -245,6 +246,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/etc/wifi/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/xiaomi/rolex/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/xiaomi/rolex/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
+    vendor/xiaomi/rolex/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/xiaomi/rolex/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/xiaomi/rolex/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/xiaomi/rolex/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
