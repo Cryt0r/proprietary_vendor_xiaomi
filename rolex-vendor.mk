@@ -21,6 +21,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/bin/cnd:system/bin/cnd \
     vendor/xiaomi/rolex/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/xiaomi/rolex/proprietary/bin/cnss_diag:system/bin/cnss_diag \
+    vendor/xiaomi/rolex/proprietary/lib64/hw/consumerir.msm8937.so:system/lib64/hw/consumerir.msm8937.so \
+    vendor/xiaomi/rolex/proprietary/lib/hw/consumerir.msm8937.so:system/lib/hw/consumerir.msm8937.so \
     vendor/xiaomi/rolex/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/xiaomi/rolex/proprietary/bin/dun-server:system/bin/dun-server \
     vendor/xiaomi/rolex/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
