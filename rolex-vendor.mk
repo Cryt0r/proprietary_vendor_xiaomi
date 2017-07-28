@@ -294,6 +294,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
     vendor/xiaomi/rolex/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/rolex/proprietary/priv-app/ims/ims.apk:system/priv-app/ims/ims.apk \
+    vendor/xiaomi/rolex/proprietary/priv-app/ims/lib/arm64/libimscamera_jni.so:system/priv-app/ims/lib/arm64/libimscamera_jni.so \
+    vendor/xiaomi/rolex/proprietary/priv-app/ims/lib/arm64/libimsmedia_jni.so:system/priv-app/ims/lib/arm64/libimsmedia_jni.so \
     vendor/xiaomi/rolex/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/xiaomi/rolex/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
     vendor/xiaomi/rolex/proprietary/vendor/bin/hbtp_daemon:system/vendor/bin/hbtp_daemon \
