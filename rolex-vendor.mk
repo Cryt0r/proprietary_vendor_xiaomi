@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
     vendor/xiaomi/rolex/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/xiaomi/rolex/proprietary/bin/iop:system/bin/iop \
-    vendor/xiaomi/rolex/proprietary/bin/ipacm:system/bin/ipacm \
     vendor/xiaomi/rolex/proprietary/bin/ipacm-diag:system/bin/ipacm-diag \
     vendor/xiaomi/rolex/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/rolex/proprietary/bin/loc_launcher:system/bin/loc_launcher \
@@ -195,7 +194,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/etc/hostapd/hostapd.accept:system/etc/hostapd/hostapd.accept \
     vendor/xiaomi/rolex/proprietary/etc/hostapd/hostapd_default.conf:system/etc/hostapd/hostapd_default.conf \
     vendor/xiaomi/rolex/proprietary/etc/hostapd/hostapd.deny:system/etc/hostapd/hostapd.deny \
-    vendor/xiaomi/rolex/proprietary/etc/IPACM_cfg.xml:system/etc/IPACM_cfg.xml \
     vendor/xiaomi/rolex/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/xiaomi/rolex/proprietary/etc/lowi.conf:system/etc/lowi.conf \
     vendor/xiaomi/rolex/proprietary/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
