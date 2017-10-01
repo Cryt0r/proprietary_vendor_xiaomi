@@ -308,7 +308,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/xiaomi/rolex/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/rolex/proprietary/vendor/bin/touch_fusion:system/vendor/bin/touch_fusion \
-    vendor/xiaomi/rolex/proprietary/vendor/default.prop:system/vendor/default.prop \
     vendor/xiaomi/rolex/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/xiaomi/rolex/proprietary/vendor/etc/audio_output_policy.conf:system/vendor/etc/audio_output_policy.conf \
     vendor/xiaomi/rolex/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
