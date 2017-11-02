@@ -1583,18 +1583,31 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     TimeService \
     datastatusnotification \
-    fastdormancy \
     embms \
+    fastdormancy \
     shutdownlistener \
     CNEService \
     QtiTetherService \
+    com.qualcomm.location \
     qcrilmsgtunnel \
-    colorservice \
     ims \
     imssettings \
-    com.qti.location.sdk \
-    qcnvitems \
-    qcrilhook \
+    ConnectivityExt \
+	QtiTelephonyServicelibrary \
+	cneapiclient \
+	com.qti.dpmframework \
+	com.qti.location.sdk \
+	com.qti.snapdragon.sdk.display \
+	com.qualcomm.location.vzw_library \
+	com.quicinc.cne \
+	dpmapi \
+	embmslibrary \
+	imscmlibrary \
+	izat.xt.srv \
+	qcrilhook \
+	qti-telephony-common \
+	rcsimssettings \
+	tcmclient \
     qdcm_calib_data_hx8394F_HD720p_video_BOE \
     qdcm_calib_data_ili9881c_HD720p_video_Tianma \
     qdcm_calib_data_nt35521s_HD720p_video_EBBG
