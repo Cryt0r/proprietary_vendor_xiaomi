@@ -1584,6 +1584,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     datastatusnotification \
     fastdormancy \
+    embms \
     shutdownlistener \
     CNEService \
     QtiTetherService \
