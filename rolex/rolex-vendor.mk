@@ -224,7 +224,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
     vendor/xiaomi/rolex/proprietary/lib/libOmxSwVdec.so:system/lib/libOmxSwVdec.so \
     vendor/xiaomi/rolex/proprietary/lib/libOmxSwVencMpeg4.so:system/lib/libOmxSwVencMpeg4.so \
-    vendor/xiaomi/rolex/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
     vendor/xiaomi/rolex/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/xiaomi/rolex/proprietary/lib/libRecoFace.so:system/lib/libRecoFace.so \
     vendor/xiaomi/rolex/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
@@ -238,7 +237,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/rolex/proprietary/lib64/libOmxSwVdec.so:system/lib64/libOmxSwVdec.so \
     vendor/xiaomi/rolex/proprietary/lib64/libOmxSwVencMpeg4.so:system/lib64/libOmxSwVencMpeg4.so \
-    vendor/xiaomi/rolex/proprietary/lib64/libOmxVdec.so:system/lib64/libOmxVdec.so \
     vendor/xiaomi/rolex/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/xiaomi/rolex/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/xiaomi/rolex/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
